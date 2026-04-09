@@ -25,7 +25,7 @@
             <Korean>비활성 활력징후 표시</Korean>
             <Spanish>Mostrar estados inactivos de constantes vitales</Spanish>
             <Turkish>Pasif hayati bulgu durumlarını göster</Turkish>
-            <Japanese>非アクティブなバイタル状態を表示</Japanese>
+            <Japanese>バイタルサインの非表示</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowInactiveStatuses_Desc">
             <English>Show vitals status in overview tab when inactive (display ""none"")</English>
@@ -38,7 +38,7 @@
             <Korean>활력징후가 없는 상태일 때 개요 탭에 활력징후 상태 표시 ("none" 표시)</Korean>
             <Spanish>Mostrar el estado de las constantes vitales en la pestaña de resumen cuando estén inactivas (mostrar “ninguna”)</Spanish>
             <Turkish>Pasifken genel bakış sekmesinde hayati durumları göster ("yok" olarak görüntüler)</Turkish>
-            <Japanese>非アクティブ時に概要タブでバイタル状態を表示（「none」と表示）</Japanese>
+            <Japanese>バイタルサインが無い場合に、概要タブにバイタル状態を表示（"none" と表示）</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowExactPainAmount">
             <English>Show Pain Amount</English>
@@ -51,7 +51,7 @@
             <Korean>통증 수치 표시</Korean>
             <Spanish>Mostrar Nivel de Dolor</Spanish>
             <Turkish>Ağrı Miktarını Göster</Turkish>
-            <Japanese>疼痛量を表示</Japanese>
+            <Japanese>痛みのレベルを表示</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowExactPainAmount_Desc">
             <English>Show exact pain amount in overview tab</English>
@@ -64,7 +64,7 @@
             <Korean>개요 탭에 정확한 통증 수치 표시</Korean>
             <Spanish>Mostrar el nivel exacto de dolor en la pestaña de resumen</Spanish>
             <Turkish>Genel bakış sekmesinde tam ağrı miktarını göster</Turkish>
-            <Japanese>概要タブで正確な疼痛量を表示</Japanese>
+            <Japanese>概要タブで正確な痛みを数値を表示</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowFracture">
             <English>Show Fracture</English>
@@ -136,7 +136,7 @@
             <Korean>환자 사이드 라벨 표시</Korean>
             <Spanish>Mostrar Etiquetas Laterales del Paciente (Izq/Der)</Spanish>
             <Turkish>Hasta taraf etiketlerini göster</Turkish>
-            <Japanese>患者の左右ラベルを表示</Japanese>
+            <Japanese>患者のサイドラベルを表示</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowPatientSideLabels_Desc">
             <English>Show patient left/right side labels in medical menu</English>
@@ -149,7 +149,7 @@
             <Korean>의료 메뉴에서 환자의 좌/우 측 라벨 표시 </Korean>
             <Spanish>Mostrar las etiquetas de izquierda/derecha del paciente en el menú médico</Spanish>
             <Turkish>Tıbbi menüde hastanın sol/sağ taraf etiketlerini göster</Turkish>
-            <Japanese>医療メニューで患者の左右ラベルを表示</Japanese>
+            <Japanese>医療メニューで患者のサイドラベルを表示</Japanese>
         </Key>
         <Key ID="STR_ACM_GUI_NoExternalBleeding">
             <English>No external bleeding</English>
@@ -162,7 +162,7 @@
             <Korean>외부 출혈 없음 </Korean>
             <Spanish>Sin sangrado externo</Spanish>
             <Turkish>Harici kanama yok</Turkish>
-            <Japanese>外出血なし</Japanese>
+            <Japanese>外傷性出血なし</Japanese>
         </Key>
         <Container name="// Triage Text //">
             <Key ID="STR_ACM_GUI_Triage_Priority1_Short">

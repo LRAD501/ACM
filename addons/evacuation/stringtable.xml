@@ -25,7 +25,7 @@
             <Korean>티켓</Korean>
             <Spanish>Tickets</Spanish>
             <Turkish>Biletler</Turkish>
-            <Japanese>Tickets</Japanese>
+            <Japanese>チケット</Japanese>
         </Key>
         <Key ID="STR_ACM_Evacuation_Category_CasualtyConversion">
             <English>Casualty Conversion</English>
@@ -38,7 +38,7 @@
             <Korean>사상자 전환</Korean>
             <Spanish>Conversión de Herido</Spanish>
             <Turkish>Zayiat Dönüştürme</Turkish>
-            <Japanese>負傷者変換</Japanese>
+            <Japanese>負傷者数</Japanese>
         </Key>
         <Key ID="STR_ACM_Evacuation_SETTING_Enable">
             <English>Enable Evacuation Addon</English>
@@ -51,7 +51,7 @@
             <Korean>퇴출 기능 활성화</Korean>
             <Spanish>Habilitar Addon de Evacuación</Spanish>
             <Turkish>Tahliye Eklentisini Etkinleştir</Turkish>
-            <Japanese>後送アドオンを有効化</Japanese>
+            <Japanese>後送機能を有効化</Japanese>
         </Key>
         <Key ID="STR_ACM_Evacuation_SETTING_Enable_Desc">
             <English>Enable Evacuation Addon functionality, respawning and tickets must be enabled on mission to work</English>
@@ -64,7 +64,7 @@
             <Korean>퇴출 기능 활성화, 작동하려면 미션에서 리스폰 및 티켓 활성화 필요</Korean>
             <Spanish>Habilita la funcionalidad del Addon de Evacuación; deben estar activados el respawn y los tickets en la misión para que funcione.</Spanish>
             <Turkish>Tahliye eklentisi işlevini etkinleştirir; çalışması için görevde yeniden doğma ve biletlerin etkin olması gerekir</Turkish>
-            <Japanese>後送アドオン機能を有効化。動作させるには、ミッションでリスポーンとチケットを有効にする必要がある</Japanese>
+            <Japanese>後送機能を有効化。動作させるには、ミッションでリスポーンとチケットを有効にする必要がある</Japanese>
         </Key>
         <Key ID="STR_ACM_Evacuation_SETTING_ClearCasualtyLoadout">
             <English>Clear Casualty Loadout</English>
@@ -233,7 +233,7 @@
             <Korean>사상자 전환 위치 </Korean>
             <Spanish>Ubicación para Conversión de Heridos</Spanish>
             <Turkish>Zayiat Dönüştürme Konumu</Turkish>
-            <Japanese>負傷者変換場所</Japanese>
+            <Japanese>負傷者の変換場所</Japanese>
         </Key>
         <Key ID="STR_ACM_Evacuation_SETTING_Location_Convert_Desc">
             <English>Sets locations at which casualty conversion can be performed</English>
@@ -273,7 +273,7 @@
                 <Korean>사상자 전환 중...</Korean>
                 <Spanish>Convirtiendo Herido...</Spanish>
                 <Turkish>Zayiat Dönüştürülüyor...</Turkish>
-                <Japanese>負傷者を変換中…</Japanese>
+                <Japanese>負傷者を変換中...</Japanese>
             </Key>
             <Key ID="STR_ACM_Evacuation_ConvertCasualty_Complete">
                 <English>Casualty Conversion Complete</English>
@@ -336,7 +336,7 @@
                 <Turkish>Yeni bir takviye biriminin kontrolünü aldınız</Turkish>
                 <French>Vous avez pris le contrôle d'un nouveau renfort</French>
                 <Polish>Przejąłeś kontrole nad nowym wsparciem</Polish>
-                <Japanese>あなたは新たな増援を操作するようになった</Japanese>
+                <Japanese>増援部隊の指揮権を獲得しました</Japanese>
             </Key>
             <Key ID="STR_ACM_Evacuation_EvacuatePatient">
                 <English>Evacuate Patient</English>

@@ -89,7 +89,7 @@
                 <Korean>생리식염수량</Korean>
                 <Spanish>Volumen de salino</Spanish>
                 <Turkish>Serum Hacmi</Turkish>
-                <Japanese>生理食塩水量</Japanese>
+                <Japanese>生理食塩水の量</Japanese>
             </Key>
         </Container>
         <Container name="// Inflict Cardiac Arrest Module //">
@@ -156,7 +156,7 @@
                 <Korean>심실 세동 (V.Fibrillation)</Korean>
                 <Spanish>Fibrilación Ventricular</Spanish>
                 <Turkish>Ventriküler Fibrilasyon</Turkish>
-                <Japanese>心室細動</Japanese>
+                <Japanese>心室細動 (VF)</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_PVT">
                 <English>Ventricular Tachycardia</English>
@@ -169,7 +169,7 @@
                 <Korean>심실 빈맥 (VT)</Korean>
                 <Spanish>Taquicardia Ventricular</Spanish>
                 <Turkish>Ventriküler Taşikardi</Turkish>
-                <Japanese>心室頻拍</Japanese>
+                <Japanese>心室頻拍 (VT)</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Random">
                 <English>Random</English>
@@ -182,7 +182,7 @@
                 <Korean>무작위</Korean>
                 <Spanish>Aleatorio</Spanish>
                 <Turkish>Rastgele</Turkish>
-                <Japanese>Random</Japanese>
+                <Japanese>ランダム</Japanese>
             </Key>
         </Container>
         <Container name="// Inflict Chest Injury Module //">
@@ -210,7 +210,7 @@
                 <Korean>부상 유형</Korean>
                 <Spanish>Tipo de Lesión</Spanish>
                 <Turkish>Yaralanma Türü</Turkish>
-                <Japanese>損傷タイプ</Japanese>
+                <Japanese>負傷の種類</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Pneumothorax">
                 <English>Pneumothorax</English>
@@ -277,7 +277,7 @@
                 <Korean>통증 부여</Korean>
                 <Spanish>Aplicar Dolor</Spanish>
                 <Turkish>Ağrı Ver</Turkish>
-                <Japanese>疼痛を与える</Japanese>
+                <Japanese>痛みを与える</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_GivePain_PainAmount">
                 <English>Pain Amount</English>
@@ -290,7 +290,7 @@
                 <Korean>통증 수치</Korean>
                 <Spanish>Nivel de Dolor</Spanish>
                 <Turkish>Ağrı Miktarı</Turkish>
-                <Japanese>疼痛量</Japanese>
+                <Japanese>痛みのレベル</Japanese>
             </Key>
         </Container>
         <Container name="// Set Oxygen Module //">
@@ -359,7 +359,7 @@
                 <Turkish>Plot Armor’u Aç/Kapat</Turkish>
                 <French>Activer/désactiver L'armure en scénarium</French>
                 <Polish>Włącz plot armor </Polish>
-                <Japanese>プロットアーマーを切り替え</Japanese>
+                <Japanese>ユニットのバフのオン/オフ</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_PlotArmor_Enabled">
                 <English>Plot armor enabled on unit</English>
@@ -370,7 +370,7 @@
                 <Turkish>Birime plot armor etkinleştirildi</Turkish>
                 <French>La protection du scénario à été activé sur l'unité</French>
                 <Polish>Plot armor załączony na jednostce</Polish>
-                <Japanese>ユニットのプロットアーマーが有効化された</Japanese>
+                <Japanese>ユニットにバフが適用されました</Japanese>
             </Key>
             <Key ID="STR_ACM_Zeus_Module_PlotArmor_Disabled">
                 <English>Plot armor disabled on unit</English>
@@ -381,7 +381,7 @@
                 <Turkish>Birimin plot armor özelliği devre dışı bırakıldı</Turkish>
                 <French>La protection du scénario à été désactivé sur l'unité</French>
                 <Polish>Plot armor wyłączony na jednostce</Polish>
-                <Japanese>ユニットのプロットアーマーが無効化された</Japanese>
+                <Japanese>ユニットのバフが無効化されました</Japanese>
             </Key>
         </Container>
     </Package>

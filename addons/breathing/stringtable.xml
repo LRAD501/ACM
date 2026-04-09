@@ -611,7 +611,7 @@
                 <Korean>빈 휴대용 산소통 (425L)</Korean>
                 <Spanish>Tanque de oxígeno portátil vacío (425L)</Spanish>
                 <Turkish>Boş Taşınabilir Oksijen Tüpü (425L)</Turkish>
-                <Japanese>空の携帯用酸素ボンベ（425L）</Japanese>
+                <Japanese>空の携帯用酸素ボンベ(425L)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_OxygenTank_425">
                 <English>Portable Oxygen Tank (425L)</English>
@@ -624,7 +624,7 @@
                 <Korean>휴대용 산소통 (425L)</Korean>
                 <Spanish>Tanque de oxígeno portátil (425L)</Spanish>
                 <Turkish>Taşınabilir Oksijen Tüpü (425L)</Turkish>
-                <Japanese>携帯用酸素ボンベ（425L）</Japanese>
+                <Japanese>携帯用酸素ボンベ(425L)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_OxygenTank_425_Desc">
                 <English>Used with BVM to provide supplementary oxygen to patients</English>
@@ -1394,7 +1394,7 @@
                 <Korean>배액 (ACCUVAC)</Korean>
                 <Spanish>Drenar líquido (ACCUVAC)</Spanish>
                 <Turkish>Sıvıyı Drene Et (ACCUVAC)</Turkish>
-                <Japanese>液体を排出（ACCUVAC）</Japanese>
+                <Japanese>液体を排出(ACCUVAC)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_DrainFluid_SuctionBag">
                 <English>Drain Fluid (Suction Bag)</English>
@@ -1407,7 +1407,7 @@
                 <Korean>배액 (Suction Bag)</Korean>
                 <Spanish>Drenar líquido (Bolsa de succión)</Spanish>
                 <Turkish>Sıvıyı Drene Et (Aspirasyon Torbası)</Turkish>
-                <Japanese>液体を排出（吸引バッグ）</Japanese>
+                <Japanese>液体を排出(吸引バッグ)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_DrainFluid_Suction_Progress">
                 <English>Draining Fluid...</English>
@@ -1433,7 +1433,7 @@
                 <Korean>%1 흉강액 배액 (%2)</Korean>
                 <Spanish>%1 drenó espacio pleural (%2)</Spanish>
                 <Turkish>%1 plevral boşluğu drene etti (%2)</Turkish>
-                <Japanese>%1 が胸膜腔を排液した（ %2 ）</Japanese>
+                <Japanese>%1 が胸膜腔を排液した (%2)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_ThoracostomyDrain_QuickViewLog">
                 <English>Thoracostomy Drain: %1</English>
@@ -1699,7 +1699,7 @@
                 <Spanish>Realizar toracostomía (kit)</Spanish>
                 <Turkish>Torakostomi Yap (Kit)</Turkish>
                 <Polish>Wykonaj torakotomie (zestaw)</Polish>
-                <Japanese>胸腔切開を実施（キット）</Japanese>
+                <Japanese>胸腔切開を実施(キット)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_ThoracostomySweep_Already">
                 <English>Thoracostomy sweep already performed</English>
@@ -1738,7 +1738,7 @@
                 <Spanish>%1 realizó una toracostomía (kit)</Spanish>
                 <Turkish>%1 torakostomi yaptı (Torakostomi Kiti)</Turkish>
                 <Polish>%1 wykonał torakotomie (zestaw)</Polish>
-                <Japanese>%1 が胸腔切開を実施した（胸腔切開キット）</Japanese>
+                <Japanese>%1 が胸腔切開を実施した(胸腔切開キット)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_ThoracostomySweep_Complete">
                 <English>Finger Thoracostomy Performed</English>
@@ -2039,7 +2039,7 @@
                 <Korean>BVM + 산소통 사용 중 (CPR 보조)...</Korean>
                 <Spanish>Usando ambú con oxígeno (asistiendo RCP)</Spanish>
                 <Turkish>Oksijenli BVM Kullanılıyor (CPR Destekleniyor)...</Turkish>
-                <Japanese>酸素併用でBVMを使用中（CPR補助）...</Japanese>
+                <Japanese>酸素併用でBVMを使用中(CPR補助)...</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_BVM_Stop">
                 <English>Stop using BVM</English>
@@ -2180,7 +2180,7 @@
                 <Korean>%1 BVM 구조 호흡 중단 (x%2)</Korean>
                 <Spanish>%1 detuvo las ventilaciones de rescate con ambú (x%2)</Spanish>
                 <Turkish>%1 BVM kurtarıcı solunumunu durdurdu (x%2)</Turkish>
-                <Japanese>%1 がBVMによる人工呼吸を中止した（ %2 ）</Japanese>
+                <Japanese>%1 がBVMによる人工呼吸を中止した(%2)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_BVM_OxygenTankDepleted">
                 <English>Portable Oxygen Tank Depleted</English>
@@ -2378,7 +2378,7 @@
                 <Korean>흉강 천자 절개 (%1)</Korean>
                 <Spanish>Incisión de toracostomía (%1)</Spanish>
                 <Turkish>Torakostomi Kesisi (%1)</Turkish>
-                <Japanese>胸腔切開創（ %1 ）</Japanese>
+                <Japanese>胸腔切開創 (%1)</Japanese>
             </Key>
             <Key ID="STR_ACM_Breathing_GUI_ThoracostomyIncision_Sealed">
                 <English>Sealed</English>

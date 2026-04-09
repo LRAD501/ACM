@@ -64,7 +64,7 @@
             <Korean>군번줄에 체중 표시</Korean>
             <Spanish>Mostrar Peso en las Chapas de Identificación</Spanish>
             <Turkish>Künye üzerinde ağırlığı göster</Turkish>
-            <Japanese>ドッグタグに重量を表示</Japanese>
+            <Japanese>ドッグタグに体重を表示</Japanese>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_Dogtag_ShowWeight_Desc">
             <English>Set whether dog tags list the unit's weight</English>
@@ -77,7 +77,7 @@
             <Korean>군번줄에 부대원의 체중을 표시할지 설정 </Korean>
             <Spanish>Define si las placas de identificación muestran el peso del individuo</Spanish>
             <Turkish>Künyelerin birimin ağırlığını gösterip göstermeyeceğini ayarla</Turkish>
-            <Japanese>ドッグタグにユニットの重量を表示するかどうかを設定</Japanese>
+            <Japanese>ドッグタグにユニットの体重を表示するかどうかを設定</Japanese>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_IgnoreIncompatibleAddonWarnings">
             <English>Ignore Incompatible Addon Warning</English>
@@ -127,7 +127,7 @@
             <Turkish>Medik AI’nın bandaj ve turnike dışında işlem yapmasına izin verilip verilmeyeceğini ayarlar</Turkish>
             <French>Défini si le médecin IA est autorisé à exercer d'autres actions que panser, et mettre des tourniquets</French>
             <Polish>Definiuje czy medycy AI mogą wykonywać jakiekolwiek czynności poza bandażowaniem i zakładaniem TQj</Polish>
-            <Japanese>AI衛生兵が、包帯処置および止血帯の使用以外の行動を実行できるかどうかを設定</Japanese>
+            <Japanese>AI衛生兵が、包帯の処置および止血帯の使用以外の行動を実行できるかどうかを設定</Japanese>
         </Key>
         <Container name="// Actions //">
             <Key ID="STR_ACM_Core_MorphineAutoinjector">
@@ -154,7 +154,7 @@
                 <Korean>모르핀 자동주사기 사용 중...</Korean>
                 <Spanish>Usando el Autoinyector de Morfina...</Spanish>
                 <Turkish>Morfin Otoenjektörü Kullanılıyor...</Turkish>
-                <Japanese>モルヒネ自己注射器を使用中…</Japanese>
+                <Japanese>モルヒネ自己注射器を使用中...</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_EpinephrineAutoinjector">
                 <English>Use Epinephrine Autoinjector</English>
@@ -180,7 +180,7 @@
                 <Korean>에피네프린 자동주사기 사용 중...</Korean>
                 <Spanish>Usando el Autoinyector de Epinefrina...</Spanish>
                 <Turkish>Epinefrin Otoenjektörü Kullanılıyor...</Turkish>
-                <Japanese>エピネフリン自己注射器を使用中…</Japanese>
+                <Japanese>エピネフリン自己注射器を使用中...</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_AdenosineAutoinjector">
                 <English>Use Adenosine Autoinjector</English>
@@ -206,7 +206,7 @@
                 <Korean>아데노신 자동주사기 사용 중...</Korean>
                 <Spanish>Usando el Autoinyector de Adenosina...</Spanish>
                 <Turkish>Adenozin Otoenjektörü Kullanılıyor...</Turkish>
-                <Japanese>アデノシン自己注射器を使用中…</Japanese>
+                <Japanese>アデノシン自己注射器を使用中...</Japanese>
             </Key>
         </Container>
         <Container name="// Cancel Carrying //">
@@ -287,7 +287,7 @@
                 <Spanish>Preparando para portar...</Spanish>
                 <Turkish>Taşımaya hazırlanılıyor...</Turkish>
                 <Polish>Przygotowywanie do niesienia...</Polish>
-                <Japanese>運搬準備中…</Japanese>
+                <Japanese>運搬準備中...</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_AssistCarry_Cancelled">
                 <English>Carry-assist cancelled</English>
@@ -313,7 +313,7 @@
                 <Spanish>Colocar en Posición Supina</Spanish>
                 <Turkish>Sırtüstü Pozisyona Al</Turkish>
                 <Polish>Ułóż w pozycji leżącej</Polish>
-                <Japanese>仰臥位にする</Japanese>
+                <Japanese>仰向けにする</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_SupinePosition_Complete">
                 <English>Patient has been placed into the supine position</English>
@@ -325,7 +325,7 @@
                 <Spanish>El paciente ha sido colocado en posición supina</Spanish>
                 <Turkish>Hasta sırtüstü pozisyona alındı</Turkish>
                 <Polish>Pacjent został ułożony w pozycji leżącej</Polish>
-                <Japanese>患者は仰臥位にされた</Japanese>
+                <Japanese>患者は仰向けにされた</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_SupinePosition_Hint">
                 <English>You have been placed into the supine position</English>
@@ -337,7 +337,7 @@
                 <Spanish>Has sido colocado en posición supina</Spanish>
                 <Turkish>Sırtüstü pozisyona alındınız</Turkish>
                 <Polish>Ułożono cię w pozycji leżącej</Polish>
-                <Japanese>あなたは仰臥位にされた</Japanese>
+                <Japanese>あなたは仰向けにされた</Japanese>
             </Key>
         </Container>
         <Container name="// Treatment Text //">
@@ -397,7 +397,7 @@
                 <Korean>[ACM] 기본 의료 보급 상자</Korean>
                 <Spanish>[ACM] Caja de Suministros Médicos Básicos</Spanish>
                 <Turkish>[ACM] Temel Tıbbi Malzeme Sandığı</Turkish>
-                <Japanese>[ACM] Basic Medical Supply Crate</Japanese>
+                <Japanese>[ACM] 基本医療物資箱</Japanese>
             </Key>
             <Key ID="STR_ACM_Core_MedicalSupplyCrate_Advanced_Display">
                 <English>[ACM] Advanced Medical Supply Crate</English>
@@ -410,7 +410,7 @@
                 <Korean>[ACM] 고급 의료 보급 상자</Korean>
                 <Spanish>[ACM] Caja de Suministros Médicos Avanzados</Spanish>
                 <Turkish>[ACM] Gelişmiş Tıbbi Malzeme Sandığı</Turkish>
-                <Japanese>[ACM] Advanced Medical Supply Crate</Japanese>
+                <Japanese>[ACM] 上級医療物資箱</Japanese>
             </Key>
         </Container>
         <Container name="// Dog Tags //">
@@ -665,7 +665,7 @@
                 <Korean>의료 장비</Korean>
                 <Spanish>Equipo Médico</Spanish>
                 <Turkish>Tıbbi Ekipman</Turkish>
-                <Japanese>Medical Equipment</Japanese>
+                <Japanese>医療器具</Japanese>
             </Key>
         </Container>
     </Package>

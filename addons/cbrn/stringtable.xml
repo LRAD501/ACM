@@ -118,7 +118,7 @@
             <Turkish>Gaz Maskesi Listesi</Turkish>
             <French>Liste des masques à gaz</French>
             <Polish>Lista masek przeciwgazowych</Polish>
-            <Japanese>Gas Mask List</Japanese>
+            <Japanese>ガスマスクリスト</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomPPEList_GasMask_Desc">
             <English>List of goggles (facewear)/helmets that are gas masks (or equivalent). Each entry should be a goggles/helmet classname and should be seperated with a comma</English>
@@ -130,7 +130,7 @@
             <Turkish>Gaz maskesi (veya eşdeğeri) olan gözlüklerin (yüz ekipmanı)/kaskların listesi. Her giriş bir gözlük/kask sınıf adı olmalı ve virgülle ayrılmalıdır</Turkish>
             <French>Listes des lunettes (masque)/casque qui sont des masques à gaz (ou équivalent) chaque entrée doit être des lunettes/casques classname et doit être séparé avec un point virgule</French>
             <Polish>Lista gogli (ochrona twarzy)/hełmów, które są maskami gazowymi. Każdy wpis powinien być nazwą klasy gogli/hełmów i powinien być rozdzielony przecinkiem.</Polish>
-            <Japanese>ガスマスク（または同等品）であるゴーグル（フェイスウェア）／ヘルメットの一覧。各項目はゴーグル／ヘルメットのクラス名とし、カンマで区切ること</Japanese>
+            <Japanese>ガスマスク(または同等品)であるゴーグル(フェイスウェア)／ヘルメットの一覧。各項目はゴーグル／ヘルメットのクラス名とし、カンマで区切ること</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomPPEList_Suit">
             <English>CBRN Suit List</English>
@@ -142,7 +142,7 @@
             <Turkish>CBRN Elbisesi Listesi</Turkish>
             <French>Liste de combinaison NRBC</French>
             <Polish>Lista kombinezonów CBRN</Polish>
-            <Japanese>CBRN Suit List</Japanese>
+            <Japanese>CBRNスーツリスト</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomPPEList_Suit_Desc">
             <English>List of uniforms that are CBRN suits. Each entry should be a uniform classname and should be seperated with a comma</English>
@@ -166,7 +166,7 @@
             <Turkish>CBRN Korumalı Araç Listesi</Turkish>
             <French>Véhicule bénéficiant d'une protection NRBC</French>
             <Polish>Lista pojazdów z dodatnim ciśnieniem</Polish>
-            <Japanese>CBRN Protected Vehicle List</Japanese>
+            <Japanese>CBRN防護車両リスト</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomVehicleList_CBRN_Desc">
             <English>List of vehicles that are CBRN protected (overpressure capability). Each entry should be a vehicle classname and should be seperated with a comma</English>
@@ -178,7 +178,7 @@
             <Turkish>CBRN korumalı (aşırı basınç kabiliyetine sahip) araçların listesi. Her giriş bir araç sınıf adı olmalı ve virgülle ayrılmalıdır</Turkish>
             <French>Liste des véhicules bénéficiant d'une protection NRBC (Capacité de Sur-Pression). Chaque entrée doit être une classname de véhicule et doit être séparé avec un point virgule</French>
             <Polish>Lista pojazdów, które chronią przed gazami bojowymi za pomocą dodatniego ciśnienia w środku. Każdy wpis powinien być nazwą klasy gogli/hełmów i powinien być rozdzielony przecinkiem.</Polish>
-            <Japanese>CBRN防護（過圧防護能力）を有する車両の一覧。各項目は車両のクラス名とし、カンマで区切ること</Japanese>
+            <Japanese>CBRN防護(過圧防護能力)を有する車両の一覧。各項目は車両のクラス名とし、カンマで区切ること</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomVehicleList_Sealed">
             <English>Sealed Vehicle List</English>
@@ -190,7 +190,7 @@
             <Turkish>Yalıtımlı Araç Listesi</Turkish>
             <French>Liste de véhicules hermétique</French>
             <Polish>Lista pojazdów szczelnych</Polish>
-            <Japanese>Sealed Vehicle List</Japanese>
+            <Japanese>密閉車両リスト</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomVehicleList_Sealed_Desc">
             <English>List of vehicles that are sealed. Each entry should be a vehicle classname and should be seperated with a comma</English>
@@ -226,7 +226,7 @@
             <Turkish>ATNA otoenjektörü kullanmak için gereken eğitim seviyesi</Turkish>
             <French>Niveau de formation requis pour utiliser l'autoinjecteur d'ATNA</French>
             <Polish>Poziom wyszkolenia wymagany do urzycia ATNA</Polish>
-            <Japanese>ATNA自動注射器の使用に必要なレベル</Japanese>
+            <Japanese>ATNA自動注射器の使用に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Allow_MidazolamAutoinjector">
             <English>Allow Midazolam Autoinjector</English>
@@ -250,7 +250,7 @@
             <Turkish>Midazolam otoenjektörü kullanmak için gereken eğitim seviyesi</Turkish>
             <French>Niveau de formation requis pour utiliser l'autoinjecteur à Midazolam</French>
             <Polish>Poziom wyszkolenia wymagany do urzycia autostrzykawki z Midazolamem</Polish>
-            <Japanese>ミダゾラム自動注射器の使用に必要なレベル</Japanese>
+            <Japanese>ミダゾラム自動注射器の使用に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChemicalAffectAI">
             <English>Chemical Agents Affect AI</English>
@@ -541,7 +541,7 @@
                 <Turkish>CS Bombası</Turkish>
                 <French>Grenade CS</French>
                 <Polish>Granat z gazem CS</Polish>
-                <Japanese>CS Grenade</Japanese>
+                <Japanese>CS 手榴弾</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_CS_Grenade_Desc">
                 <English>Type: CS Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
@@ -589,7 +589,7 @@
                 <Turkish>Gaz Maskesi Filtresi</Turkish>
                 <French>Filtre de Masque à Gaz</French>
                 <Polish>Filtr maski przeciwkazowej</Polish>
-                <Japanese>Gas Mask Filter</Japanese>
+                <Japanese>ガスマスクフィルター</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_GasMaskFilter_Desc">
                 <English>Used with gas mask to allow breathing in hazardous environments</English>
@@ -665,7 +665,7 @@
                 <Turkish>[ACM] CBRN Malzeme Sandığı</Turkish>
                 <French>[ACM] NRBC Caisse de Ravitaillement</French>
                 <Polish>[ACM] Skrzynia zapasów CBRN</Polish>
-                <Japanese>[ACM] CBRN Supply Crate</Japanese>
+                <Japanese>[ACM] CBRN物資箱</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_SupplyCrate_PPE_Display">
                 <English>[ACM] CBRN PPE Supply Crate</English>
@@ -677,7 +677,7 @@
                 <Turkish>[ACM] CBRN KKD Malzeme Sandığı</Turkish>
                 <French>[ACM] NRBC EPI Caisse de Ravitaillement</French>
                 <Polish>[ACM] Skrzynia CBRN zawierająca PPE</Polish>
-                <Japanese>[ACM] CBRN個人防護装備補給クレート</Japanese>
+                <Japanese>[ACM] CBRN個人防護装備補給箱</Japanese>
             </Key>
         </Container>
         <Container name="// Chemical Weapons //">
@@ -715,7 +715,7 @@
                 <Turkish>Kimyasal Yüklü Mermi (Klor Gazı)</Turkish>
                 <French>Obus Chargé Chimiquement</French>
                 <Polish>Pocisk chemiczny (Chlor)</Polish>
-                <Japanese>化学剤ペイロード弾（塩素ガス）</Japanese>
+                <Japanese>化学剤ペイロード弾(塩素ガス)</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Chlorine_Shell_82mm_Short">
                 <English>CWA (Chlorine)</English>
@@ -727,7 +727,7 @@
                 <Turkish>KSA (Klor)</Turkish>
                 <French>AGC (Chlore)</French>
                 <Polish>CWA (Chlor)</Polish>
-                <Japanese>CWA（塩素）</Japanese>
+                <Japanese>CWA(塩素)</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Sarin_Shell_82mm">
                 <English>Chemical Payload Shell (Sarin Gas)</English>
@@ -739,7 +739,7 @@
                 <Turkish>Kimyasal Yüklü Mermi (Sarin Gazı)</Turkish>
                 <French>Obus Chargé Chimiquement</French>
                 <Polish>Pocisk chemiczny (Sarin)</Polish>
-                <Japanese>化学剤ペイロード弾（サリンガス）</Japanese>
+                <Japanese>化学剤ペイロード弾(サリンガス)</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Sarin_Shell_82mm_Short">
                 <English>CWA (Sarin)</English>
@@ -751,7 +751,7 @@
                 <Turkish>KSA (Sarin)</Turkish>
                 <French>AGC (Sarin)</French>
                 <Polish>CWA (Sarin)</Polish>
-                <Japanese>CWA（サリン）</Japanese>
+                <Japanese>CWA(サリン)</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Lewisite_Shell_82mm">
                 <English>Chemical Payload Shell (Lewisite)</English>
@@ -763,7 +763,7 @@
                 <Turkish>Kimyasal Yüklü Mermi (Lewisit)</Turkish>
                 <French>Obus Chargé Chimiquement (Lewisite)</French>
                 <Polish>Pocisk chemiczny (Luizyt)</Polish>
-                <Japanese>化学剤ペイロード弾（ルイサイト）</Japanese>
+                <Japanese>化学剤ペイロード弾(ルイサイト)</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Lewisite_Shell_82mm_Short">
                 <English>CWA (Lewisite)</English>
@@ -775,7 +775,7 @@
                 <Turkish>KSA (Lewisit)</Turkish>
                 <French>AGC (Lewisite)</French>
                 <Polish>CWA (Luizyt)</Polish>
-                <Japanese>CWA（ルイサイト）</Japanese>
+                <Japanese>CWA(ルイサイト)</Japanese>
             </Key>
         </Container>
         <Container name="// Wash Eyes Action //">
@@ -801,7 +801,7 @@
                 <Turkish>Şunun Gözlerini Yıka</Turkish>
                 <French>Laver les yeux de</French>
                 <Polish>Przemyj oczy z</Polish>
-                <Japanese>の目を洗浄</Japanese>
+                <Japanese>目を洗浄する対象</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_WashEyes_Progress">
                 <English>Washing eyes with water...</English>
@@ -875,7 +875,7 @@
                 <Turkish>Gaz Maskesi</Turkish>
                 <French>Masque à Gaz</French>
                 <Polish>Maska przeciwgazowa</Polish>
-                <Japanese>Gas Mask</Japanese>
+                <Japanese>ガスマスク</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_GasMask_PutOn">
                 <English>Put On</English>
@@ -997,7 +997,7 @@
                 <Turkish>Aç</Turkish>
                 <French>Allumer</French>
                 <Polish>Załącz</Polish>
-                <Japanese>Turn On</Japanese>
+                <Japanese>オンにする</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_ChemicalDetector_TurnOff">
                 <English>Turn Off</English>
@@ -1009,7 +1009,7 @@
                 <Turkish>Kapat</Turkish>
                 <French>Éteindre</French>
                 <Polish>Wyłącz</Polish>
-                <Japanese>Turn Off</Japanese>
+                <Japanese>オフにする</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_ChemicalDetector_EnableAlarm">
                 <English>Enable Alarm</English>
@@ -1021,7 +1021,7 @@
                 <Turkish>Alarmı Etkinleştir</Turkish>
                 <French>Activer l'alarme</French>
                 <Polish>Włącz alarm</Polish>
-                <Japanese>Enable Alarm</Japanese>
+                <Japanese>アラームを有効にする</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_ChemicalDetector_DisableAlarm">
                 <English>Disable Alarm</English>
@@ -1033,7 +1033,7 @@
                 <Turkish>Alarmı Devre Dışı Bırak</Turkish>
                 <French>Désactiver l'alarme</French>
                 <Polish>Wyłącz alarm</Polish>
-                <Japanese>Disable Alarm</Japanese>
+                <Japanese>アラームを無効にする</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_ChemicalDetector_Reset">
                 <English>Reset</English>
@@ -1045,7 +1045,7 @@
                 <Turkish>Sıfırla</Turkish>
                 <French>Réinitialisation</French>
                 <Polish>Resetuj</Polish>
-                <Japanese>Reset</Japanese>
+                <Japanese>リセット</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_ChemicalDetector_TurnedOn">
                 <English>Chemical detector turned on</English>
@@ -1167,7 +1167,7 @@
                 <Turkish>Nesneye Bağla</Turkish>
                 <French>Attacher à l'objet</French>
                 <Polish>Podłącz do obiektu</Polish>
-                <Japanese>Attach To Object</Japanese>
+                <Japanese>オブジェクトに取り付ける</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Module_Generic_AttachToObject_TooltipEden">
                 <English>Attaches hazard zone to synchronized object</English>
@@ -1191,7 +1191,7 @@
                 <Turkish>Sis Efektini Göster</Turkish>
                 <French>Montrer la brume</French>
                 <Polish>Pokaż mgłę</Polish>
-                <Japanese>Show Mist</Japanese>
+                <Japanese>霧の表示</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Module_Generic_ShowMist_Tooltip">
                 <English>Show mist effect over hazard radius</English>
@@ -1360,7 +1360,7 @@
                 <Turkish>Küçük</Turkish>
                 <French>Petit</French>
                 <Polish>Małe</Polish>
-                <Japanese>Small</Japanese>
+                <Japanese>小さい</Japanese>
             </Key>
             <Key ID="STR_ACM_CBRN_Module_CreateChemicalDevice_CloudSize_Large">
                 <English>Large</English>
@@ -1372,7 +1372,7 @@
                 <Turkish>Büyük</Turkish>
                 <French>Large</French>
                 <Polish>Duże</Polish>
-                <Japanese>Large</Japanese>
+                <Japanese>大きい</Japanese>
             </Key>
         </Container>
         <Container name="// GUI //">

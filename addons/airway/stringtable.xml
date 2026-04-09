@@ -90,7 +90,7 @@
             <Korean>기도 (Airway) 폐쇄(혈액) 확률 배수</Korean>
             <Spanish>Multiplicador de probabilidad de obstrucción de vía aérea por sangre</Spanish>
             <Turkish>Hava Yolu Tıkanıklığı (Kan) Olasılığı Çarpanı</Turkish>
-            <Japanese>気道閉塞（血液）発生率</Japanese>
+            <Japanese>気道閉塞(血液)発生率</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayObstructionChance_Vomit">
             <English>Airway Obstruction (Vomit) Chance Multiplier</English>
@@ -103,7 +103,7 @@
             <Korean>기도 (Airway) 폐쇄(구토) 확률 배수</Korean>
             <Spanish>Multiplicador de probabilidad de obstrucción de vía aérea por vómito</Spanish>
             <Turkish>Hava Yolu Tıkanıklığı (Kusmuk) Olasılığı Çarpanı</Turkish>
-            <Japanese>気道閉塞（嘔吐物）発生率</Japanese>
+            <Japanese>気道閉塞(嘔吐物)発生率</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition">
             <English>Establish Recovery Position Time</English>
@@ -155,7 +155,7 @@
             <Korean>Suction Bag 사용에 필요한 훈련 수준</Korean>
             <Spanish>Nivel de entrenamiento requerido para utilizar la bolsa de succión</Spanish>
             <Turkish>Aspirasyon Torbası kullanmak için gereken eğitim seviyesi</Turkish>
-            <Japanese>吸引バッグを使用するのに必要なレベル</Japanese>
+            <Japanese>吸引バッグを使用するのに必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC">
             <English>Allow ACCUVAC</English>
@@ -285,7 +285,7 @@
             <Korean>Guedel Tube 삽입에 필요한 훈련 수준</Korean>
             <Spanish>Nivel de entrenamiento requerido para utilizar el tubo orofaríngeo</Spanish>
             <Turkish>OPA yerleştirmek için gereken eğitim seviyesi</Turkish>
-            <Japanese>OPAの挿入に必要なレベル</Japanese>
+            <Japanese>OPAの挿入に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA">
             <English>Allow NPA</English>
@@ -311,7 +311,7 @@
             <Korean>NPA 삽입에 필요한 훈련 수준</Korean>
             <Spanish>Nivel de entrenamiento requerido para utilizar el tubo nasofaríngeo</Spanish>
             <Turkish>NPA yerleştirmek için gereken eğitim seviyesi</Turkish>
-            <Japanese>NPAの挿入に必要なレベル</Japanese>
+            <Japanese>NPAの挿入に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SGA">
             <English>Allow i-gel</English>
@@ -337,7 +337,7 @@
             <Korean>i-gel 삽입에 필요한 훈련 수준</Korean>
             <Spanish>Nivel de entrenamiento requerido para utilizar el i-gel</Spanish>
             <Turkish>i-gel yerleştirmek için gereken eğitim seviyesi</Turkish>
-            <Japanese>i-gelの挿入に必要なレベル</Japanese>
+            <Japanese>i-gelの挿入に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SurgicalAirway">
             <English>Allow Surgical Airway</English>
@@ -361,7 +361,7 @@
             <Turkish>Cerrahi hava yolu oluşturmak için gereken eğitim seviyesi</Turkish>
             <French>Niveau de formation est nécesaire pour établir les voies respiratoires chirurgicales</French>
             <Polish>Poziom wyszkolenia potrzebny do wykonania cric</Polish>
-            <Japanese>外科的気道確保の実施に必要なレベル</Japanese>
+            <Japanese>外科的気道確保の実施に必要な訓練レベル</Japanese>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable">
             <English>Airway Adjuncts Reusable</English>
@@ -1954,7 +1954,7 @@
                 <Turkish>Hava Yolu Kesisini Dik (Sütür)</Turkish>
                 <French>Suturer l'incision des voie respiratoire (Suture)</French>
                 <Polish>Zszyj nacięcie chirurgicznego udrożnienia (szew)</Polish>
-                <Japanese>気道切開部を縫合（縫合糸）</Japanese>
+                <Japanese>気道切開部を縫合(縫合糸)</Japanese>
             </Key>
             <Key ID="STR_ACM_Airway_SurgicalAirwayStitch_Complete">
                 <English>Stitched surgical airway incision</English>
